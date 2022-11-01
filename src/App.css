@@ -47,3 +47,10 @@
   border-radius: 20px;
 
 }
+
+.Details_Style {
+  border: 5px solid yellowgreen;
+  background-color: aquamarine;
+  border-radius: 10px;
+  margin: 20px;
+}
